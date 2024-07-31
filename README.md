@@ -1,2 +1,2 @@
 # searchType-News
-Created with CodeSandbox
+Created with CodeSandbox: https://codesandbox.io/s/searchtype-news-jxq389
